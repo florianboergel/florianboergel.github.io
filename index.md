@@ -22,7 +22,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/Ghostbike-Seite001.jpg
-    image_caption: "Mahnwache des Radentscheid Rostock"
+    image_caption: "(c) Radentscheid Rostock"
     alt: "placeholder image 2"
     title: "Mahnwache des Radentscheid Rostock"
     excerpt: "Am 17.03.2019 wurde das erste Ghost Bike in Rostock aufgestellt."
@@ -30,6 +30,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/amo.jpg
+    image_caption: "(c) NASA worldview"
     title: "My first publication in Geophysical Research Letters"
     excerpt: "The impact of Atlantic Multidecal Oscillation on Baltic Sea Variability"
     url: /publications/
