@@ -1,7 +1,7 @@
 ---
-title:  "Blog"
+title:  "blog"
 layout: archive
-permalink: /Blogs/
+permalink: /blog/
 author_profile: true
 comments: true
 
@@ -12,8 +12,6 @@ header:
   caption: "Wavelet AMO Echo-G"
   actions:
 ---
-
-This is my blog page.
 
 {% for post in site.posts %}
   <article>
