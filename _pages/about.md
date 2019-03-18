@@ -33,6 +33,4 @@ Hey, my name is Florian and I am a PhD student at the Institute for Baltic Sea R
 -    Cluster analysis
 -    EOF
 
-## Publications:
 
-Börgel, F., C. Frauen, T. Neumann, S. Schimanke, and H. E. M. Meier. (2018), Impact of the Atlantic Multidecadal Oscillation on Baltic Sea variability, Geophys. Res. Lett., 45. https://doi.org/10.1029/2018GL078943
