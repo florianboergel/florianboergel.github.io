@@ -1,12 +1,11 @@
 ---
 title: "Baltic Earth 2018, Helsingör"
-excerpt: "Mein Vortrag zum Thema: Wie beeinflusst die Atlantische Multidekadische Oszillation die Ostsee?"
+excerpt: "My presentation about how the Atlantic Multidecadal Oscillation influences the Baltic Sea."
 header:
   image: /images/baltic_earth.jpg
   teaser: /images/baltic_earth.jpg
 sidebar:
-  - title: "Speaker"
-    author_profile: true
+  - title: "Contribution: Speaker"
 gallery:
   - url: /images/amo_fig_1.png
     image_path: /images/amo_fig_1.png
@@ -14,11 +13,11 @@ gallery:
   - url: /images/amo_fig_2.png
     image_path: /images/amo_fig_2.png
     alt: "AMO Fig. 2"
+author_profile: true
 ---
+My presentation was within the session salinity dynamics. The title of my presentation was: 'The impact of the Atlantic Multidecadal Oscillation on the salinity variability of the Baltic Sea'
 
-Mein Vortrag zum in der Session Salinity Dynamics mit dem Titel: The impact of the Atlantic Multidecadal Oscillation on the salinity variability of the Baltic Sea
-
-## Text in den Conference Proceedings: 
+## Description of my talk in the conference proceedings: 
 
 ### Baltic Sea
 

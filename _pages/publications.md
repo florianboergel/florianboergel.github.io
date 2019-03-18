@@ -6,7 +6,7 @@ author_profile: true
 comments: true
 ---
 
-# Impact of the Atlantic Multidecadal Oscillation on Baltic Sea Variability
+## Impact of the Atlantic Multidecadal Oscillation on Baltic Sea Variability
 
 > Börgel, F., C. Frauen, T. Neumann, S. Schimanke, and H. E. M. Meier. (2018), Impact of the Atlantic Multidecadal Oscillation on Baltic Sea variability, Geophys. Res. Lett., 45. https://doi.org/10.1029/2018GL078943
 

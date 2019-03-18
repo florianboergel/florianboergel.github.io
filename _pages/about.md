@@ -13,7 +13,10 @@ header:
   actions:
 ---
 
-Hey, my name is Florian and I am a PhD student at the Institute for Baltic Sea Research. During my PhD I will focus on the long-term variability in the Baltic Sea. This helps to understand changes of the Baltic Sea ecosystem. While I will likely focus on the Baltic Sea I hope that I can apply my findings to other coastal oceans, too. Semi-enclosed seas like the Baltic Sea respond very sensitive and fast to atmospheric changes e.g. global warming. This helps to predict changes to other coastal oceans.
+Hey, my name is Florian and I am a PhD student at the Institute for Baltic Sea Research. I studied engineering physics with a focus on computeroriented physics. During my PhD I focus on the long-term variability in the Baltic Sea. This helps to understand changes within the Baltic Sea ecosystem. At our institute we use numerical models of the ocean to answer these questions. Therefore, I would call myself a computational oceanographer in training.
+
+While I will likely focus on the Baltic Sea I hope that I can apply my findings to other coastal oceans, too. Semi-enclosed seas like the Baltic Sea respond very sensitive and fast to atmospheric changes e.g. global warming.
+
 
 ## Interests
 
