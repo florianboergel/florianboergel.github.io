@@ -1,0 +1,196 @@
+#pop_img{
+width:620px;
+height:413px;
+position:absolute;
+top:0px;
+overflow:hidden;
+cursor:pointer;
+}
+
+.pop_img_content{
+position:absolute;
+top:0px;
+overflow:hidden;
+}
+
+#pop_video{
+width:620px;
+height:345px;
+position:absolute;
+top:0px;
+overflow:hidden;
+}
+
+#pop_audio{
+width:620px;
+height:50px;
+position:absolute;
+top:0px;
+overflow:hidden;
+}
+
+.pop_info{
+width:612px;
+height:388px;
+position:absolute;
+top:460px;
+margin-left:4px;margin-right:4px;
+overflow-y: auto;
+overflow-x: hidden;
+}
+
+.pop_info_video{
+width:612px;
+height:200px;
+position:absolute;
+top:393px;
+margin-left:4px;margin-right:4px;
+overflow-y: auto;
+overflow-x: hidden;
+}
+
+.pop_info_audio{
+width:612px;
+height:520px;
+position:absolute;
+top:10px;
+margin-left:4px;margin-right:4px;
+overflow-y: auto;
+overflow-x: hidden;
+}
+
+.pop_headline{color: rgb(62, 62, 62);font-size: 1.3em;}
+.pop_desc{font-size: 0.85em;line-height: 150%;
+max-height: 140px;
+overflow: auto;
+}
+.pop_data{font-size: 0.85em;line-height: 190%;}
+
+.button{
+list-style-type: none !important;
+background:none !important;
+margin: 0px!important;
+padding:0px!important;
+}
+
+.page_input{
+line-height: 18px;
+text-align: center;
+width: 26px;
+}
+
+#media_container_old{
+float: left;
+background-color: rgb(255, 255, 255);
+width: 225px;
+padding:14px 14px 25px 14px;
+}
+
+.media_container{
+float: left;
+background-color: rgb(255, 255, 255);
+width: 225px;
+padding:12px;
+height: 17.62em;
+}
+
+.media_container_start{
+float: left;
+background-color: rgb(255, 255, 255);
+width: 225px;
+padding:14px;
+}
+
+a.media_link_typ{
+color: rgb(62, 62, 62);font-weight: bold; text-transform: uppercase; font-size: 1em;
+}
+
+a.media_link_title{
+color: rgb(62, 62, 62);font-weight: bold; font-size: 1.2em;
+}
+
+.media_pic{
+margin:5px 0px 10px;position:relative;
+}
+
+.media_header{
+background: url("/mediathek/preview/css_pics/verlauf1.jpg") repeat-x scroll 0 0 #f1f0f2;
+padding:10px;padding-bottom:15px;
+}
+
+#tabs_menu a{
+float: left !important;
+color: rgb(62, 62, 62) !important;
+font-weight: bold !important;
+font-size: 1.2em !important;
+background:url(/mediathek/preview/css_pics/tab_button_grey.gif);background-repeat:no-repeat;background-position:center center !important;
+width:109px !important;
+height:21px !important;
+padding-top:5px !important;
+padding-bottom:5px !important;
+text-align: center !important;
+margin-right:10px !important;
+}
+
+#tabs_menu a.current{
+float: left !important;
+color: rgb(255, 255, 255) !important;
+font-weight: bold !important;
+font-size: 1.2em !important;
+background:url(/mediathek/preview/css_pics/tab_button_blue.gif);background-repeat:no-repeat;background-position:center center !important;
+width:109px !important;
+height:21px !important;
+padding-top:5px !important;
+text-align: center !important;
+margin-right:10px !important;
+}
+
+.tagcloud_size_1 {font-size: 0.7em;}
+.tagcloud_size_2 {font-size: 0.9em;}
+.tagcloud_size_3 {font-size: 1.05em;}
+.tagcloud_size_4 {font-size: 1.25em;}
+.tagcloud_size_5 {font-size: 1.5em;}
+
+#media_tagcloud a{color: rgb(62, 62, 62);}
+
+a.tag{text-decoration: underline;}
+#media_start{visibility: hidden;}
+#media_reihe{visibility: hidden;}
+#media_start_tags{visibility: hidden;}
+
+a.pp{
+color: rgb(62, 62, 62);
+background:url(/mediathek/preview/css_pics/pp_grey.gif);background-repeat:no-repeat;background-position:center center;
+padding-right:4px;
+padding-top:4px;
+padding-bottom:2px;
+font-size: 0.7em;
+}
+
+.ppblue{
+color: rgb(255, 255, 255);
+background:url(/mediathek/preview/css_pics/pp_blue.gif);background-repeat:no-repeat;background-position:center center;
+padding-right:4px;
+padding-top:4px;
+padding-bottom:2px;
+font-size: 0.7em;
+}
+
+#media_item_entries{float:left;padding-left:10px;}
+#media_item_pp{float:left;padding-left:20px;}
+#media_item_type{float:left;padding-left:20px;}
+#media_item_pages{float:right;padding-right:10px;}
+#media_item_pages2{float:right;padding-right:10px;}
+#media_item_reihen{float:left;padding-left:20px;}
+
+.neu{
+position:absolute;
+top:0px;
+left:200px;
+padding: 5px;
+font-weight: normal;
+font-size: 0.6em;
+color: rgb(255, 255, 255);
+text-decoration:none;
+background: none repeat scroll 0 0 #004f80;
+}
