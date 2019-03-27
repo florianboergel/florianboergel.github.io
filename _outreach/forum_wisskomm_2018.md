@@ -24,3 +24,9 @@ author_profile: true
 ## German description in conference proceedings: 
 
 Dank Machine Learning, Natural Language Processing und KI-Algorithmen wird es in den Sozialen Netzwerken immer mehr Bots geben. Aber sind Bots genauso glaubwürdige Informationsquellen wie menschliche Wissenschaftskommunikatorinnen und -kommunikatoren? Wofür können sie eingesetzt werden? Welche ethischen Standards gilt es zu berücksichtigen? Woran lassen sich Bots online von Menschen unterscheiden? Und wie funktioniert so ein Bot überhaupt? Im Workshop tauchen die Teilnehmenden in die Geheimnisse der Wissenschaftskommunikation per Twitter-Bot ein und programmieren diese selbst in Python. Hierfür wird ein eigener Windows-oder Linux-Laptop benötigt.
+
+## Documentation of FWK 18 (german)
+
+For our presentation see pages 35-36 of the PDF.
+
+<embed src="https://www.wissenschaft-im-dialog.de/fileadmin/user_upload/Forum_Wissenschaftskommunikation/Dokumente/FWK18_Doku.pdf" width="600" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
