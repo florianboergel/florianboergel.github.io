@@ -1,24 +1,3 @@
----
-title:  "code"
-layout: archive
-permalink: /code/
-author_profile: true
-comments: true
----
-
-# Wavelet lecture 'Analysis of climate variability'
-
-This lecture was part of the winter school 'Analysis of climate variability' at the Institute of Baltic Sea Research. The students were participating by using their on jupyter notebook similar to the one below.
-
-If you are interested in wavelets a use R I strongly encourage you to read 
-
-[WaveletComp 1.1: A guided tour through the R package Angi R̈osch and Harald Schmidbauer](http://www.hs-stat.com/projects/WaveletComp/WaveletComp_guided_tour.pdf)
-
-for the programming part (many of the example come from that pdf)
-
-and for the theory part:
-
-[A practical guide to wavelet analysis](http://atoc.colorado.edu/research/wavelets/bams_79_01_0061.pdf)
 
 # Introduction to wavelet analysis
 
@@ -27,6 +6,9 @@ and for the theory part:
 Although Fourier analysis is well suited to analyze constant periodic components in time series, it cannot characterize signals whose frequency content changes with time. So, a Fourier decomposition may give all spectral components of a signal, but it does not provide any information when they are present.
 
 Task 1: Compute the Power Spectrum of a time series
+
+
+
 
 
 ```R
@@ -40,7 +22,25 @@ library("fields")
     
     Attaching package: ‘grid’
     
-    [...]
+    The following object is masked from ‘package:WaveletComp’:
+    
+        arrow
+    
+    Spam version 2.2-0 (2018-06-19) is loaded.
+    Type 'help( Spam)' or 'demo( spam)' for a short introduction 
+    and overview of this package.
+    Help for individual functions is also obtained by adding the
+    suffix '.spam' to the function name, e.g. 'help( chol.spam)'.
+    
+    Attaching package: ‘spam’
+    
+    The following objects are masked from ‘package:base’:
+    
+        backsolve, forwardsolve
+    
+    Loading required package: maps
+    See www.image.ucar.edu/~nychka/Fields for
+     a vignette and other supplements. 
 
 
 
@@ -51,14 +51,15 @@ x = x + 0.2*rnorm(1000)  # add some noise
 plot(x, type="l")
 ```
 
-![png](/images/output_2_0.png)
+
+![png](output_2_0.png)
 
 
 ## Power spectrum
 
 The power spectrum is used to examine the main characteristics of a time series. For example, it can be used to detect if seasonality is present in the data, if so, the spectrum will show peaks at the seasonal frequencies.
 
-The power spectrum __S_xx__ of a time series __x(t)__ can be used to describe the distriution of power into frequency components composing that singal.
+The power spectrum $S_{xx}$ of a time series $x(t)$ can be used to describe the distriution of power into frequency components composing that singal.
 
 Using fourier analysis we can decompose any physical signal into a spectrum of frequencies.
 
@@ -107,7 +108,7 @@ plot(1/a$freq,a$power,xlim=c(0,100), type = "l")
 ```
 
 
-![png](/images/output_5_0.png)
+![png](output_5_0.png)
 
 
 Of course someone already implemented this in R.
@@ -119,7 +120,7 @@ plot(1/x.spec$freq, x.spec$spec, type = "l", xlim = c(0,100))
 ```
 
 
-![png](/images/output_7_0.png)
+![png](output_7_0.png)
 
 
 ## Why do we need time information about our time series 
@@ -148,7 +149,7 @@ plot(y, type = "l")
 ```
 
 
-![png](/images/output_10_0.png)
+![png](output_10_0.png)
 
 
 
@@ -164,7 +165,7 @@ plot(1/x.spec$freq, x.spec$spec, type = "l", xlim=c(0, 200))
 ```
 
 
-![png](/images/output_11_0.png)
+![png](output_11_0.png)
 
 
 ## Finally, wavelets ...
@@ -183,6 +184,17 @@ my.w.y <- analyze.wavelet(my.data, "x",loess.span = 0,
                         upperPeriod = 128,make.pval = TRUE, n.sim = 10)
 ```
 
+    Starting wavelet transformation...
+    ... and simulations... 
+      |======================================================================| 100%
+    Class attributes are accessible through following names:
+    series loess.span dt dj Wave Phase Ampl Power Power.avg Power.pval Power.avg.pval Ridge Period Scale nc nr coi.1 coi.2 axis.1 axis.2 date.format date.tz 
+    Starting wavelet transformation...
+    ... and simulations... 
+      |======================================================================| 100%
+    Class attributes are accessible through following names:
+    series loess.span dt dj Wave Phase Ampl Power Power.avg Power.pval Power.avg.pval Ridge Period Scale nc nr coi.1 coi.2 axis.1 axis.2 date.format date.tz 
+
 
 
 ```R
@@ -190,7 +202,7 @@ wt.image(my.w.x, n.levels = 250,legend.params = list(lab = "wavelet power levels
 ```
 
 
-![png](/images/output_14_0.png)
+![png](output_14_0.png)
 
 
 
@@ -199,7 +211,7 @@ wt.image(my.w.y, n.levels = 250,legend.params = list(lab = "wavelet power levels
 ```
 
 
-![png](/images/output_15_0.png)
+![png](output_15_0.png)
 
 
 ## One more example
@@ -213,7 +225,7 @@ plot(x, type="l")
 ```
 
 
-![png](/images/output_17_0.png)
+![png](output_17_0.png)
 
 
 
@@ -231,7 +243,7 @@ wt.image(my.w, n.levels = 250,legend.params = list(lab = "wavelet power levels")
 
 
 
-![png](/images/output_18_1.png)
+![png](output_18_1.png)
 
 
 Wavelets are a good choice, if you want to study periodic phenomena in a time series. Especially, when the frequency changes across time. Wavelets provide a reasonable compromise in the time and frequency resolution dilemma. 
@@ -247,7 +259,7 @@ We can seperate the wavelet transform into its real part and its imaginary part.
 
 The "mother" Morlet wavelet we will use is defined as 
 
-__\psi (t) = \pi^{-1/4} \exp(i\omega t) \exp(-t^2 /2)__
+$\psi (t) = \pi^{-1/4} \exp(i\omega t) \exp(-t^2 /2)$
 
 with the "angular frequency" $\omega$ set to 6. 
 
@@ -285,12 +297,12 @@ legend("topright",legend=c("Real","Imag"), col = c("black", "green"),
 ```
 
 
-![png](/images/output_24_0.png)
+![png](output_24_0.png)
 
 
-The morlet wavelet transform of a time series __x_t__ is defined as the convolution of the series with a set of "wavelet daughters" generated by the mother wavelet, by shifting it in time by __\tau__ and scaling it by __s__. 
+The morlet wavelet transform of a time series $x_t$ is defined as the convolution of the series with a set of "wavelet daughters" generated by the mother wavelet, by shifting it in time by $\tau$ and scaling it by $s$. 
 
-__Wave(\tau , s) = \sum_t x_t \frac{1}{\sqrt(s)} \psi^{*} (\frac{t-\tau}{s})__
+$Wave(\tau , s) = \sum_t x_t \frac{1}{\sqrt(s)} \psi^{*} (\frac{t-\tau}{s})$
 
 where * denotes the complex conjugate.
 
@@ -348,7 +360,7 @@ image.plot(range, scale, new.data, ylim=c(16,128))
 ```
 
 
-![png](/images/output_28_0.png)
+![png](output_28_0.png)
 
 
 # El Nino Southern Oscillation
@@ -367,7 +379,7 @@ plot(date, my.data$V1, type = "l", ylab="[°C]", main = "NINO3 SST")
 ```
 
 
-![png](/images/output_31_0.png)
+![png](output_31_0.png)
 
 
 
@@ -384,7 +396,7 @@ wt.image(my.w,color.key="i", n.levels = 250,legend.params = list(lab = "wavelet 
 
 
 
-![png](/images/output_32_1.png)
+![png](output_32_1.png)
 
 
 First, we can see that most of the power is concentrad withing the ENSO band of 2-8 yr band. 
@@ -430,7 +442,7 @@ plot(date, weather.radiation.Mannheim$radiation,
 ```
 
 
-![png](/images/output_36_0.png)
+![png](output_36_0.png)
 
 
 For a systematic analysis, we compute the wavelet transform and plot the wavelet power spectrum of each series.
@@ -472,7 +484,7 @@ do.wavelet(weather.radiation.Mannheim, "temperature")
 
 
 
-![png](/images/output_39_1.png)
+![png](output_39_1.png)
 
 
 
@@ -492,7 +504,7 @@ The same settings for the power level range have been used for the three plots, 
 
 There are three observations for each day, and we can use cross-wavelet analysis to investigate the periodic linkages between pairs of the three series. To that end, we need a scheme which helps interpret cross-wavelet power spectra. 
 
-[placeholder]
+![b](img/phase_relationship.png)
 
 Each pair from the series temperature, humidity and radiation can be analyzed jointly with respect to
 its wavelet coherency; this will reveal which series is leading at given time and period (in case of joint
