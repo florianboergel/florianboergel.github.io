@@ -58,7 +58,7 @@ plot(x, type="l")
 
 The power spectrum is used to examine the main characteristics of a time series. For example, it can be used to detect if seasonality is present in the data, if so, the spectrum will show peaks at the seasonal frequencies.
 
-The power spectrum __S_xx__ of a time series __x(t)__ can be used to describe the distriution of power into frequency components composing that singal.
+The power spectrum __S_xx__ of a time series __x(t)__ can be used to describe the distribution of power into frequency components composing that singal.
 
 Using fourier analysis we can decompose any physical signal into a spectrum of frequencies.
 
@@ -528,4 +528,4 @@ periodtck = 1, periodtcl = NULL)
 
  Temperature and humidity are out of phase, with humidity leading by roughly 1 / 8 year.
 
-In the atmosphere the relative humidity of the air is increased, and condensation results when air temperature is reduced to the dew point or when sufficient water vapour is added to saturate the air
+In the atmosphere the relative humidity of the air is increased, and condensation results when air temperature is reduced to the dew point or when sufficient water vapor is added to saturate the air
