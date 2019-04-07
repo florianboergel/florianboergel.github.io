@@ -160,6 +160,7 @@ include:
   - _pages
   - _posts
   - _outreach
+  - _code
   - images
 exclude:
   - "*.sublime-project"
@@ -285,6 +286,9 @@ collections:
   outreach:
     output: true
     permalink: /:collection/:path/
+  code:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -308,3 +312,12 @@ defaults:
       layout: single
       author_profile: false
       share: true
+    # _code
+  - scope:
+      path: ""
+      type: code
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
