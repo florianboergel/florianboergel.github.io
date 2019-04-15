@@ -27,6 +27,8 @@ Dank Machine Learning, Natural Language Processing und KI-Algorithmen wird es in
 
 ## Documentation of FWK 18 (german)
 
-For our presentation see pages 35-36 of the PDF.
+For our presentation see pages 35-36 of the full Documentation at [wissenschaft-im-dialog.de](https://www.wissenschaft-im-dialog.de/fileadmin/user_upload/Forum_Wissenschaftskommunikation/Dokumente/FWK18_Doku.pdf). Down below you'll our documentation in the embed PDF. 
 
-<embed src="https://www.wissenschaft-im-dialog.de/fileadmin/user_upload/Forum_Wissenschaftskommunikation/Dokumente/FWK18_Doku.pdf" width="600" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+<embed src="http://marie-heidenreich.de/wp-content/uploads/2015/07/FWK18_Doku_Twitter-Bots.pdf" width="600" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+
+Raffauf, Floriana: Schwimmversuche mit dem Ozeanbot. In: Wissenschaft im Dialog (Hg.): Dokumentation zum 11. Forum Wissenschaftskommunikation. Berlin 2018, S. 67-69 (Artikel als PDF)
