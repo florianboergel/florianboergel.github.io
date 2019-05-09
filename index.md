@@ -21,12 +21,12 @@ feature_row:
     url: /code/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/Ghostbike-Seite001.jpg
-    image_caption: "(c) Radentscheid Rostock"
+  - image_path: /images/Florian_Boergel.jpg
+    image_caption: "(c) Grüne Rostock"
     alt: "placeholder image 2"
-    title: "Mahnwache des Radentscheid Rostock"
-    excerpt: "Am 17.03.2019 wurde das erste Ghost Bike in Rostock aufgestellt."
-    url: /first-info/
+    title: "Election in Rostock"
+    excerpt: "On 26th of May we will vote on the local parliament in Rostock and I run for election"
+    url: /buergerschaft/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/amo.jpg
@@ -34,30 +34,6 @@ feature_row:
     title: "My first publication in Geophysical Research Letters"
     excerpt: "The impact of Atlantic Multidecal Oscillation on Baltic Sea Variability"
     url: /publications/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "2019-03-16-test.md"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "My first publication in Geophysical Research Letters"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
