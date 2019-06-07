@@ -14,11 +14,11 @@ excerpt: ""
 intro: 
   - excerpt: 'On my website you will find python code, climate science and sometimes me talking politics.'
 feature_row:
-  - image_path: /images/code.png
+  - image_path: /images/flo_r11.jpg
     alt: "placeholder image 1"
-    title: "How to code for climate research?"
-    excerpt: "In the future there we will be some content about EOFs and wavelet anaylsis using python"
-    url: /code/
+    title: "Rostocks Eleven!"
+    excerpt: "My talk at this years Rostock Eleven and other conferences."
+    url: /outreach/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/Florian_Boergel.jpg

@@ -17,8 +17,7 @@ I still remember how excited I felt when the Euro was introduced in Germany. On 
 <img src="../images/Florian_Boergel.jpg" />
 
 
-Most of my friends and agreed with that feeling and we were hoping for
-change. More and more we started complaining about everything that happened. On top of that in 2016 I moved to Rostock. Rostock is a great city, but totally different from my home town Münster. Sometimes I feel people don't know how great Rostock is and can be. A city with the sea nearby.
+Most of my friends and I agreed with that feeling and we were hoping for change. More and more we started complaining about everything that happened. On top of that in 2016 I moved to Rostock. Rostock is a great city, but totally different from my home town Münster. Sometimes I feel people don't know how great Rostock is and can be. A city with the sea nearby.
 
 Therefore, I decided to help to change that and joined the political party 'Die Grünen'. Working with 'Die Grünen' have been really great. I learned a lot about the city and met awesome people. While I am at the very last spot during this election, I really enjoyed supporting our campaign. Hanging Posters, joining public discussion, handing over flowers in the city and forcing my colleagues to vote for me ;-)
 
