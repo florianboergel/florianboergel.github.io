@@ -16,4 +16,4 @@ gallery:
 author_profile: true
 ---
 
-During the summer months, IOW offers its popular-science lecture series “The Baltic and Other Seas.” In my presentation is discussed my recent work and explained how the state of the Atlantic Multidecadal Oscillation affects the Baltic Sea. The AMO is part of natural variability in the ocean. A phenomena that changes the sea surface temperature of the North Atlantic periodically every 60 - 90 years.
+During the summer months, IOW offers its popular-science lecture series “The Baltic and Other Seas.” In my presentation I discussed my recent work and explained how the state of the Atlantic Multidecadal Oscillation (AMO) affects the Baltic Sea. The AMO is part of natural variability in the ocean: a phenomenon that changes the sea surface temperature of the North Atlantic periodically every 60 - 90 years.

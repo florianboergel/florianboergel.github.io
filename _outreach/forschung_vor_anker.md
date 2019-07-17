@@ -18,11 +18,11 @@ author_profile: true
 
 # Welcome on board! 
 
-The Helmholtz-Zentrum Geesthacht, Centre for Materials and Coastal Research (HZG) and their research vessel "Ludwig Prandtl" goes on a trip. Once a year, our scientists cruise on the North Sea or Baltic Sea with several stops along the coast depicting matters of their work. People are invited to get closer to coastal research. Take a look around the vessel, discuss with the scientists, have a look on samples, measuring systems, feel free to ask your questions ... Explore the fascination of coastal research. 
+The Helmholtz-Zentrum Geesthacht, Centre for Materials and Coastal Research (HZG), and their research vessel "Ludwig Prandtl" goes on a trip. Once a year, our scientists cruise on the North Sea or Baltic Sea with several stops along the coast depicting matters of their work. People are invited to get closer to coastal research. Take a look around the vessel, discuss with the scientists, have a look on samples, measuring systems, feel free to ask your questions ... Explore the fascination of coastal research. 
 
 ## My Presentation
 
-In my presentation is discussed my recent work and explained how the state of the Atlantic Multidecadal Oscillation affects the Baltic Sea. The AMO is part of natural variability in the ocean. A phenomena that changes the sea surface temperature of the North Atlantic periodically every 60 - 90 years.
+In my presentation I discussed my recent work and explained how the state of the Atlantic Multidecadal Oscillation (AMO) affects the Baltic Sea. The AMO is part of natural variability in the ocean: a phenomenon that changes the sea surface temperature of the North Atlantic periodically every 60 - 90 years.
 
 ## More information
 
