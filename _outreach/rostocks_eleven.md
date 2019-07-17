@@ -31,5 +31,5 @@ All presentations were judged by journalists from all over Germany. All particip
 
 
 
-[https://www.rostock365.de/node/427](Rostocks Eleven)
+(https://www.rostock365.de/node/427)[Rostocks Eleven]
 
