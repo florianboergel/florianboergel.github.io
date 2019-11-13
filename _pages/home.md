@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/echo_g.png
+  overlay_image: /images/iow_background.jpg
   actions:
     - label: "Download code"
       url: "https://github.com/florianboergel"

@@ -1,15 +1,15 @@
 ---
-title: "Welcome"
+title: ""
 layout: splash
 permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/echo_g.png
-  actions:
-    - label: "Download code"
-      url: "https://github.com/florianboergel"
-  caption: "Wavelet AMO Echo-G"
+  overlay_image: /images/iow_background.jpg
+  #actions:
+  #  - label: "Download code"
+  #    url: "https://github.com/florianboergel"
+  caption: "Institute for Baltic Sea Research, Warnemünde"
 excerpt: ""
 intro: 
   - excerpt: 'On my website you will find python code, climate science and sometimes me talking politics.'
