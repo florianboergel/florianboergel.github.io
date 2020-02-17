@@ -21,12 +21,12 @@ feature_row:
     url: /outreach/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/Florian_Boergel.jpg
-    image_caption: "(c) Grüne Rostock"
+  - image_path: /images/output_18_1.png
+    image_caption: "(c) Wavelet Lecture"
     alt: "placeholder image 2"
-    title: "Election in Rostock"
-    excerpt: "On 26th of May we will vote on the local parliament in Rostock and I run for election"
-    url: /buergerschaft/
+    title: "Wavelet Lecture"
+    excerpt: "Interactive lecture about wavelet analysis during Baltic Earth Winter School on “Analysis of Climate Variability”"
+    url: /code/wavelet_lecture/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/amo.jpg
