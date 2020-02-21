@@ -7,7 +7,11 @@ comments: true
 ---
 
 
+## Commentary: Lake or Sea? The unknown future of central Baltic Sea herring
+> H. E. Markus Meier,  Florian Börgel,  Claudia Frauen and  Hagen Radtke, Commentary: Lake or Sea? The unknown future of central Baltic Sea herring, Front. Ecol. Evol., [https://www.frontiersin.org/articles/10.3389/fevo.2020.00055/full](10.3389/fevo.2020.00055)
 
+Since the 1970s the weight of 3-year old central Baltic Sea (BS) herring (Clupea harengus) decreased causing a loss in catch which is equivalent to ∼100 million € (Dippner et al., 2019). Dippner et al. (2019) suspected that the decline in weight was related to a change in the prey community caused by a reduction in surface layer (< 30 m) salinity. They concluded that the changes in herring weight are “indirectly influenced by the Atlantic Multidecadal Oscillation (AMO) via a complex mediator chain”, i.e. increased sea surface temperature (SST) in the North Atlantic (NA), increased precipitation in the BS catchment area, increased river runoff, decreased surface layer salinity in the Baltic proper and decreased zooplankton (Pseudocalanus acuspes) biomass and herring weight. We argue that observational records are too short to verify a causal relationship between AMO and herring weight, because the presented herring weight data cover only 35 years (1974-2010).
+Further, Dippner et al. (2019) proposed that “this observed trend is also projected for the future in regional climate change scenarios”. We argue that past correlations between multidecadal climate variations and herring weight should not be extrapolated into the future because the underlying processes of past and expected future changes may differ.
 
 ## Impact of the Atlantic Multidecadal Oscillation on Baltic Sea Variability
 
