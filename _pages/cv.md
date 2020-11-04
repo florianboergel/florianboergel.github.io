@@ -15,8 +15,8 @@ header:
 ## Education
 <table>
     <tr>
-        <td>expected 09/2020 </td>
-        <td>Ph.D. Physics, Physical (computational) Oceanography, Leibniz Institute for Baltic Sea Research<br>Thesis title: Long-term variability in the Baltic Sea</td>
+        <td>09/2017 - 10/2020</td>
+        <td>Ph.D. Physics (summa cum laude), Physical (computational) Oceanography, Leibniz Institute for Baltic Sea Research<br>Thesis title: Long-term variability in the Baltic Sea</td>
     </tr>
     <tr>
         <td>10/2014 - 09/2017</td>
