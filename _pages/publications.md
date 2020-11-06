@@ -6,6 +6,11 @@ author_profile: true
 comments: true
 ---
 
+## The Atlantic Multidecadal Oscillation controls the impact of the North Atlantic Oscillation on North European climate
+
+> Florian Börgel, Claudia Frauen, Thomas Neumann and H. E. Markus Meier., [https://iopscience.iop.org/article/10.1088/1748-9326/aba925](10.1088/1748-9326/aba925)
+
+European climate is heavily influenced by the North Atlantic Oscillation (NAO). However, the spatial structure of the NAO is varying with time, affecting its regional importance. By analyzing an 850-year global climate model simulation of the last millennium it is shown that the variations in the spatial structure of the NAO can be linked to the Atlantic Multidecadal Oscillation (AMO). The AMO changes the zonal position of the NAO centers of action, moving them closer to Europe or North America. During AMO+ states, the Icelandic Low moves further towards North America while the Azores High moves further towards Europe and vice versa for AMO- states. The results of a regional downscaling for the East Atlantic/European domain show that AMO-induced changes in the spatial structure of the NAO reduce or enhance its influence on regional climate variables of the Baltic Sea such as sea surface temperature, ice extent, or river runoff.
 
 ## Commentary: Lake or Sea? The unknown future of central Baltic Sea herring
 > H. E. Markus Meier,  Florian Börgel,  Claudia Frauen and  Hagen Radtke, 2020, Commentary: Lake or Sea? The unknown future of central Baltic Sea herring, Front. Ecol. Evol., [https://www.frontiersin.org/articles/10.3389/fevo.2020.00055/full](10.3389/fevo.2020.00055)
