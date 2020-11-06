@@ -7,7 +7,7 @@ main:
   # - title: "blog"
   #   url: /blog/
   - title: "code"
-    url: /code/
+    url: /personal_blog/
   - title: "publications"
     url: /publications/
   - title: "conferences & outreach"
