@@ -12,7 +12,7 @@ header:
   caption: "Institute for Baltic Sea Research, Warnemünde"
 excerpt: ""
 intro: 
-  - excerpt: 'On my website you will find python code, climate science and sometimes me talking politics.'
+  - excerpt: ''
 # feature_row:
 #   - image_path: /images/flo_r11.jpg
 #     alt: "placeholder image 1"
@@ -39,5 +39,9 @@ intro:
 # <-- {% include feature_row %} -->
 ---
  
+Hey, my name is Florian and I am working as Postdoc at the Leibniz-Institute for Baltic Sea Research, Warnemünde. In my research I try to understand how longterm variability in the atmosphere and ocean affects Northern Europe and the Baltic Sea on timescales of 10 to 1,000 years.
+
+At our institute we use numerical models of the ocean to answer these questions. Therefore, I would call myself a computational oceanographer. While I will likely focus on the Baltic Sea I hope that I can apply my findings to other coastal oceans, too. Semi-enclosed seas like the Baltic Sea respond very sensitive and fast to atmospheric changes e.g. global warming.
+
 {% include feature_row id="intro" type="center" %}
 
