@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Florian Boergel"
+  name             : "Florian Börgel"
   avatar           :  "/images/Florian_Boergel_3-6bcd96fe.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher at the Leibniz Institute for Baltic Sea Research, Warnmuende"
+  bio              : "Researcher at the Leibniz-Institute for Baltic Sea Research, Warnemünde"
   location         : "Rostock"
   email            : "florian.boergel@io-warnemuende.de"
   links:
