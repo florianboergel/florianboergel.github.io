@@ -4,10 +4,10 @@ main:
     url: /cv/
   # - title: "blog"
   #   url: /blog/
-  - title: "code"
+  - title: "Teaching & Code"
     url: /personal_blog/
-  - title: "publications"
-    url: /publications/
+  # - title: "publications"
+  #   url: /publications/
   - title: "conferences & outreach"
     url: /outreach/
  # - title: "Posts"
