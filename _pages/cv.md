@@ -24,20 +24,7 @@ header:
     </tr>
     <tr>
         <td>09/2010 - 02/2014</td>
-        <td>Bachelor of Engineering (2.0), Energy, building and environmental engineering, Münster University of Applied Sciences<br>Major: Energy engineering<br>Bachelor thesis: Planning of a local area heating system in the historic city of Warendorf (1,3)</td>
-    </tr>
-</table>
-
-## Honors & Scholarships
-
-<table>
-    <tr>
-        <td>11/2018</td>
-        <td>Reviewer IPCC special report, Selected as an early career reviewer for the Intergovernmental Panel on Climate Change’s (IPCC) special report on the Ocean and Cryosphere in a Changing Climate.</td>
-    </tr>
-    <tr>
-        <td>11/2014</td>
-        <td>Fulbright Scholarship, Full scholarship to study in the United States for one year (declined).</td>
+        <td>Bachelor of Engineering (2.0), Energy, building and environmental engineering, Münster University of Applied Sciences<br>Major: Energy engineering<br>Bachelor thesis: Planning of a local area heating system in the historic city of Warendorf (1.3)</td>
     </tr>
 </table>
 
@@ -72,14 +59,17 @@ header:
 </table>
 
 
+## Publications
+
+see [home](https://florianboergel.github.io/)
 
 ## Scientiﬁc presentations
 
-see conferences & outreach
+see [conferences & outreach](https://florianboergel.github.io/outreach/)
 
 ## Science Communication
 
-see conferences & outreach
+see [conferences & outreach](https://florianboergel.github.io/outreach/)
 
 ## Volunteer work
 
@@ -90,11 +80,11 @@ see conferences & outreach
     </tr>
     <tr>
         <td>since 01/2020</td>
-        <td>Deputy-speark of the working group Energy & Climate for the political party ’Die Grünen MV’ </td>
+        <td>Deputy-speaker of the working group Energy & Climate for the political party 'Die Grünen MV' </td>
     </tr>
     <tr>
         <td>04/2019</td>
-        <td>Candidate for the political party ’Die Grünen’ for the local election in Rostock in 2019, Rostock.</td>
+        <td>Candidate for the political party 'Die Grünen' for the local election in Rostock in 2019, Rostock.</td>
     </tr>
     <tr>
         <td>since 06/2018</td>
@@ -110,7 +100,7 @@ see conferences & outreach
     </tr>
     <tr>
         <td>06/2014 - 07/2014</td>
-        <td>Co-organization of the art exhibition ’Ferdast - A journey through Iceland’ in the Geomuseum in Münster, Art Exhibition ’Ferdast - A journey through Iceland’, Münster, http://fotoausstellungisland.wordpress.com/.</td>
+        <td>Co-organization of the art exhibition 'Ferdast - A journey through Iceland' in the Geomuseum in Münster, Art Exhibition ’Ferdast - A journey through Iceland’, Münster, http://fotoausstellungisland.wordpress.com/.</td>
     </tr>
 </table>
 
