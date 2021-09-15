@@ -5,7 +5,7 @@ main:
   # - title: "blog"
   #   url: /blog/
   - title: "Teaching & Code"
-    url: /personal_blog/
+    url: /code/
   # - title: "publications"
   #   url: /publications/
   - title: "conferences & outreach"
