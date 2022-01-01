@@ -25,11 +25,7 @@ All presentations were judged by journalists from all over Germany. All particip
 
 ## Further information 
 
-
-
 <embed src="https://www.rostock365.de/sites/default/files/redakteure/PDFs/R11-Pressemappe-2019.pdf" width="600" height="500" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
-
-
 
 (https://www.rostock365.de/node/427)[Rostocks Eleven]
 
