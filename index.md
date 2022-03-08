@@ -58,8 +58,16 @@ At our institute we use numerical models of the ocean to answer these questions.
 
 ## Publications 
 
-[5] Börgel, F., C. Frauen, T. Neumann, and H. E. M. Meier., The Atlantic Multidecadal Oscillation controls the impact of the North Atlantic Oscillation on North European climate, Environmental Research Letters, https://doi.org/10.1088/1748-9326/aba925. 2020
+[9] Florian Börgel, H. E. Markus Meier, Matthias Gröger, Monika Rhein, Cyril Dutheil and Jan
+Moritz Kaiser: Atlantic Multidecadal Variability and the Implications for North European Precipitation, Environmental Research Letters, accepted, 2022
 
+[8] Meier, H. E. M., Kniebusch, M., Dieterich, C., Gröger, M., Zorita, E., Elmgren, R., Myrberg, K., Ahola, M., Bartosova, A., Bonsdorff, E., Börgel, F., Capell, R., Carlén, I., Carlund, T., Carstensen, J., Christensen, O. B., Dierschke, V., Frauen, C., Frederiksen, M., Gaget, E., Galatius, A., Haapala, J. J., Halkka, A., Hugelius, G., Hünicke, B., Jaagus, J., Jüssi, M., Käyhkö, J., Kirchner, N., Kjellström, E., Kulinski, K., Lehmann, A., Lindström, G., May, W., Miller, P., Mohrholz, V., Müller-Karulis, B., Pavón-Jordán, D., Quante, M., Reckermann, M., Rutgersson, A., Savchuk, O. P., Stendel, M., Tuomi, L., Viitasalo, M., Weisse, R., and Zhang, W.: Climate Change in the Baltic Sea Region: A Summary, Earth Syst. Dynam. Discuss., https://doi.org/10.5194/esd-2021-67, accepted, 2022.
+
+[7] H. E. Markus Meier, Christian Dieterich, Matthias Gröger, Cyril Dutheil, Florian Börgel, Kseniia Safonova, Ole B. Christensen, Erik Kjellström: Oceanographic regional climate projections for the Baltic Sea until 2100, https://doi.org/10.5194/esd-13-159-2022, 2022
+
+[6] Dutheil, C., Meier, H.E.M., Gröger, M. and Börgel, F. Understanding past and future sea surface temperature trends in the Baltic Sea. Clim Dyn (2021). https://doi.org/10.1007/s00382-021-06084-1, 2021
+
+[5] Börgel, F., C. Frauen, T. Neumann, and H. E. M. Meier., The Atlantic Multidecadal Oscillation controls the impact of the North Atlantic Oscillation on North European climate, Environmental Research Letters, https://doi.org/10.1088/1748-9326/aba925. 2020
 
 [4] Meier H. E. M., Börgel F., Frauen C., Radtke H., Commentary: Lake or Sea? The Unknown Future of Central Baltic Sea Herring , Frontiers in Ecology and Evolution, https://doi.org/10.3389/fevo.2020.00055. 2020
 
