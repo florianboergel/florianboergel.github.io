@@ -4,7 +4,7 @@ main:
     url: /BoergelCVweb.pdf
   # - title: "blog"
   #   url: /blog/
-  - title: "Teaching & Code"
+  - title: "teaching & code"
     url: /code/
   # - title: "publications"
   #   url: /publications/
