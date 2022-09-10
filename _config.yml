@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Florian Boergel | Climate and Python"
+title                    : ""
 title_separator          : "-"
-name                     : "Florian Boergel"
+name                     : "Florian Börgel"
 description              : "Blogging about my experiences in climate science and python scripting"
 url                      : "https://florianboergel.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -109,7 +109,7 @@ author:
   name             : "Florian Börgel"
   avatar           :  "/images/Florian_Boergel_3-6bcd96fe.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Researcher at the Leibniz-Institute for Baltic Sea Research, Warnemünde"
-  location         : "Rostock"
+  location         : "Berlin"
   email            : "florian.boergel@io-warnemuende.de"
   links:
     - label: "Email"
