@@ -4,14 +4,10 @@ layout: archive
 permalink: /cv/
 author_profile: true
 comments: true
-
-excerpt: ""
-header:
-  overlay_image: /images/echo_g.png
-  overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
-  caption: "Wavelet AMO Echo-G"
-  actions:
 ---
+
+Download full CV here: [Full academic CV](/BoergelCVweb.pdf)
+
 # Education
 <table>
     <tr>
@@ -28,29 +24,3 @@ header:
     </tr>
 </table>
 
-## Additional	
-
-<table>
-    <tr>
-        <td>since 01/2016</td>
-        <td>Member of the German Physical Society, DPG.</td>
-    </tr>
-    <tr>
-        <td>11/2010 - 01/2016</td>
-        <td>Member of the Association of German Engineers, VDI.</td>
-    </tr>
-</table>
-
-	
-## Hobbys	
-
-<table>
-    <tr>
-        <td></td>
-        <td>Basketball, EBC Rostock</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Badminton</td>
-    </tr>
-</table>

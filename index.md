@@ -4,6 +4,11 @@ author_profile: true
 
 layout: archive
 permalink: /
+header:
+  overlay_image: /images/dalle_background.png
+  overlay_filter: 0.4 # same as adding an opacity of 0.5 to a black background
+  caption: "Created by an AI - DALL-E"
+  actions:
 # header:
 #   overlay_color: "#000"
 #   overlay_filter: "0.5"
@@ -46,22 +51,24 @@ permalink: /
 
 ---
  
-## About
-
-Hey, my name is Florian and I am working as a Postdoc at the Leibniz-Institute for Baltic Sea Research, Warnemünde.
-
 ## Research interest
 
  In my research I try to understand how longterm variability in the atmosphere and ocean affects Northern Europe and the Baltic Sea on timescales of 10 to 1,000 years.
 
-At our institute we use numerical models of the ocean to answer these questions. Therefore, I would call myself a computational oceanographer. While I will likely focus on the Baltic Sea I hope that I can apply my findings to other coastal oceans, too. Semi-enclosed seas like the Baltic Sea respond very sensitive and fast to atmospheric changes e.g. global warming.
+Currently main my focus is on the teleconnection between the North Atlantic and the Baltic Sea.
+
+![ds](images/fig_for_website2.png)
+<center>Relationship between two clusters of CMIP6 piControls members, focusing on relationship between the North Atlantic and sensible heat fluxes, sea surface temperatures and the Atlantic Meridional Overturing Circulation.</center>
+
+My latest work focuses on the relationship between the North Atlantic Oscillation and the Atlantic Multidecadal Variability in CMIP6 piControl runs. If you are interested, find our study published in [Environmental Research Letters](https://doi.org/10.1088/1748-9326/ac5ca1).
 
 ## Publications 
 
-[9] Florian Börgel, H. E. Markus Meier, Matthias Gröger, Monika Rhein, Cyril Dutheil and Jan
-Moritz Kaiser: Atlantic Multidecadal Variability and the Implications for North European Precipitation, Environmental Research Letters, accepted, 2022
+[10] Dutheil, C., Meier, H. E. M., Gröger M. and Börgel F.: Warming of Baltic Sea water masses since 1850, Journal of Climate, submitted
 
-[8] Meier, H. E. M., Kniebusch, M., Dieterich, C., Gröger, M., Zorita, E., Elmgren, R., Myrberg, K., Ahola, M., Bartosova, A., Bonsdorff, E., Börgel, F., Capell, R., Carlén, I., Carlund, T., Carstensen, J., Christensen, O. B., Dierschke, V., Frauen, C., Frederiksen, M., Gaget, E., Galatius, A., Haapala, J. J., Halkka, A., Hugelius, G., Hünicke, B., Jaagus, J., Jüssi, M., Käyhkö, J., Kirchner, N., Kjellström, E., Kulinski, K., Lehmann, A., Lindström, G., May, W., Miller, P., Mohrholz, V., Müller-Karulis, B., Pavón-Jordán, D., Quante, M., Reckermann, M., Rutgersson, A., Savchuk, O. P., Stendel, M., Tuomi, L., Viitasalo, M., Weisse, R., and Zhang, W.: Climate Change in the Baltic Sea Region: A Summary, Earth Syst. Dynam. Discuss., https://doi.org/10.5194/esd-2021-67, accepted, 2022.
+[9] Börgel, F., Meier, H. E. M., Gröger, M., Rhein, M., Dutheil, C., and Kaiser, J. M.: Atlantic Multidecadal Variability and the Implications for North European Precipitation, Environmental Research Letters, https://doi.org/10.1088/1748-9326/ac5ca1, 2022
+
+[8] Meier, H. E. M., Kniebusch, M., Dieterich, C., Gröger, M., Zorita, E., Elmgren, R., Myrberg, K., Ahola, M., Bartosova, A., Bonsdorff, E., Börgel, F., Capell, R., Carlén, I., Carlund, T., Carstensen, J., Christensen, O. B., Dierschke, V., Frauen, C., Frederiksen, M., Gaget, E., Galatius, A., Haapala, J. J., Halkka, A., Hugelius, G., Hünicke, B., Jaagus, J., Jüssi, M., Käyhkö, J., Kirchner, N., Kjellström, E., Kulinski, K., Lehmann, A., Lindström, G., May, W., Miller, P., Mohrholz, V., Müller-Karulis, B., Pavón-Jordán, D., Quante, M., Reckermann, M., Rutgersson, A., Savchuk, O. P., Stendel, M., Tuomi, L., Viitasalo, M., Weisse, R., and Zhang, W.: Climate Change in the Baltic Sea Region: A Summary, Earth Syst. Dynam. Discuss., https://doi.org/10.5194/esd-2021-67, https://doi.org/10.5194/esd-13-457-2022, 2022.
 
 [7] H. E. Markus Meier, Christian Dieterich, Matthias Gröger, Cyril Dutheil, Florian Börgel, Kseniia Safonova, Ole B. Christensen, Erik Kjellström: Oceanographic regional climate projections for the Baltic Sea until 2100, https://doi.org/10.5194/esd-13-159-2022, 2022
 
@@ -73,10 +80,6 @@ Moritz Kaiser: Atlantic Multidecadal Variability and the Implications for North 
 
 [3] Kniebusch, M., Meier, H. E. M., Neumann, T., and Börgel, F., Temperature variability of the Baltic Sea since 1850 and attribution to atmospheric forcing variables, Journal of Geophysical Research: Oceans, https://doi.org/10.1029/2018JC013948. 2019
 
-
 [2] Radtke, H, Börgel, F, Brunnabend, S-E, Eggert, A, Kniebusch, M, Meier, H E M, Neumann, D, Neumann, T and Placke, M, Validator a Web-Based Interactive Tool for Validation of Ocean Models at Oceanographic Stations., Journal of Open Research Software, https://doi.org/10.5334/jors.259. 2019
 
-
 [1] Börgel, F., C. Frauen, T. Neumann, S. Schimanke, and H. E. M. Meier., Impact of the Atlantic Multidecadal Oscillation on Baltic Sea variability, Geophysical Research Letters, 45., https://doi.org/10.1029/2018GL078943. 2018
-
-

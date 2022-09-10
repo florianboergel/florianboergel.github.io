@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "CV"
-    url: /BoergelCVweb.pdf
+    url: /cv/
   # - title: "blog"
   #   url: /blog/
   - title: "teaching & code"
