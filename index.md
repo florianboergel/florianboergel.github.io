@@ -53,10 +53,10 @@ header:
  
 ## Research interest
 
- In my research I try to understand how longterm variability in the atmosphere and ocean affects Northern Europe and the Baltic Sea on timescales of 10 to 1,000 years.
+In my research I try to understand how longterm variability in the atmosphere and ocean affects Northern Europe and the Baltic Sea on timescales of 10 to 1,000 years.
 
 
-Currently main my focus is on the teleconnection between the North Atlantic and the Baltic Sea in CMIP6 models.
+Currently my main focus is on the teleconnection between the North Atlantic and the Baltic Sea in CMIP6 models.
 
 ![ds](images/fig_for_website2.png)
 <center>Relationship between two clusters of CMIP6 piControls members, focusing on relationship between the North Atlantic and sensible heat fluxes, sea surface temperatures and the Atlantic Meridional Overturing Circulation.</center>
