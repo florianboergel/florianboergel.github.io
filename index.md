@@ -65,7 +65,12 @@ My latest work focuses on the relationship between the North Atlantic Oscillatio
 
 ## Publications 
 
-[10] Dutheil, C., Meier, H. E. M., Gröger M. and Börgel F.: Warming of Baltic Sea water masses since 1850, Journal of Climate, submitted
+[12] Börgel, F., Gröger, M., Meier, H. E. M., Dutheil, C., Radtke, H., & Borchert, L. (2022). Tracing the
+fingerprint of multi-decadal fluctuations in the Baltic Sea. npj - Climate and atmosphere. under review.
+
+[11] Dutheil, C., Meier, H. E. M., Gröger, M., & Börgel, F. (2022). Warming of Baltic Sea water masses since 1850. Journal of Climate. under review.
+
+[10] Gröger, M., Placke, M., Meier, M., Börgel, F., Brunnabend, S.-E., Dutheil, C., . . . Väli, G. (2022). The Baltic Sea Model Inter-Comparison Project BMIP &ndash; a Platform for Model Development, Evaluation, and Uncertainty Assessment. Geoscientific Model Development Discussions, 1–34. Publisher:Copernicus GmbH.  doi:10.5194/gmd-2022-160
 
 [9] Börgel, F., Meier, H. E. M., Gröger, M., Rhein, M., Dutheil, C., and Kaiser, J. M.: Atlantic Multidecadal Variability and the Implications for North European Precipitation, Environmental Research Letters, https://doi.org/10.1088/1748-9326/ac5ca1, 2022
 
