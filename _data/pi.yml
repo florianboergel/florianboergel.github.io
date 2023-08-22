@@ -1,0 +1,22 @@
+- name: Dr. Florian Börgel
+  photo: Flo_profil.JPG
+  info: Research associate at Leibniz Institute for Baltic Sea  Warnemünde
+  email: florian.boergel@io-warnemuende.de
+  github: https://github.com/florianboergel
+  researchgate: https://www.researchgate.net/profile/Florian-Boergel
+  scholar: https://scholar.google.de/citations?user=W9shMM4AAAAJ&hl=en
+  cv: cv/cv.pdf
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 3
+  education1: "(2020) Ph.D. Physics, University of Rostock with honors (summa cum laude)"
+  education2: "(2017) M. Sc. Engineering Physics, University of Oldenburg (1.2)"
+  education3: "(2014) B. Eng. Energy Engineering, Univery of Applied Science Münster (2.0)" 
+  # education4: 
+  # education5: 
+  # education6: 
+  education1short: (2020) Ph.D. Physics
+  education2short: (2017) M. Sc. Engineering Physics
+  education3short: (2014) B. Eng. Energy Engineering
+  # education4short: 
+  # education5short: 
+  # education6short: 
