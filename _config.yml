@@ -2,7 +2,7 @@
 title: Florian Börgel - atmosphere-ocean dynamics and climate variability
 email: florian.boergel@io-warnemuende.de 
 description: atmosphere-ocean dynamics and climate variability
-baseurl: "docs/"
+baseurl: "/docs/"
 url: "https://florianboergel.github.io/"
 destination: "docs/"
 
